@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RecyclerView</string>
+    <string name="hello_walmart">Show Walmart Recycle screen!!</string>
 </resources>
